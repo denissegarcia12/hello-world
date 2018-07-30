@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hey!
+
+Denisse here, I'm a UX/UI designer and front-end developer.
